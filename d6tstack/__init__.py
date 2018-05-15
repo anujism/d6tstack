@@ -1,2 +1,2 @@
 def a():
-    print("Anuj Testing1")
+    return "Anuj Testing1"
